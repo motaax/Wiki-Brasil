@@ -10,7 +10,7 @@ int main() {
     scanf("%f", &velocidade);
 
     tempo = tamanhoMB / velocidade;
-    printf("O tempo aproximado e de %f segundos \n", tempo);
+    printf("O tempo aproximado e de %.2f segundos \n", tempo);
 
     return 0;
 }
