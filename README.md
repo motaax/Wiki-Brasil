@@ -1,1 +1,1 @@
-# Códigos dos exercícios da Wiki Brasil!
+# Códigos de exercícios da Wiki Brasil
